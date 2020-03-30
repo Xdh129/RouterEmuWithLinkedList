@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="RouterEmuWithLinkedList:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RouterEmuWithLinkedList_jar</output-path>
+    <root id="root">
+      <element id="archive" name="RouterEmuWithLinkedList.jar">
+        <element id="module-output" name="RouterEmuWithLinkedList" />
+      </element>
+    </root>
+  </artifact>
+</component>
